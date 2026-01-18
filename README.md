@@ -5,11 +5,14 @@ This is the replication package for my paper "Self-employment and Labor Market R
 If you find this package helpful in your work, please consider citing the paper:
 
 ```
-@article{audoly2024self,
-  title={Self-employment and Labor Market Risks},
+@article{audoly2025self,
+  title={Self-Employment And Labor Market Risks},
   author={Audoly, Richard},
   journal={International Economic Review},
-  year={Forthcoming},
+  volume={66},
+  number={2},
+  pages={661--686},
+  year={2025},
   publisher={Wiley Online Library}
 }
 ```
